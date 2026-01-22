@@ -2,7 +2,7 @@
 
 This repository contains my **hands-on cybersecurity lab reports**, focused on understanding real-world vulnerabilities, exploitation techniques, and security tools through practical learning.
 
-All labs are performed in **legal, controlled environments** such as TryHackMe.
+All labs are performed in **legal, controlled environments** such as **TryHackMe**.
 
 ---
 
@@ -24,22 +24,18 @@ All labs are performed in **legal, controlled environments** such as TryHackMe.
 
 ---
 
-## 📂 Lab Reports
+## 📂 Lab Documentation
 
-1. **Vulnerabilities 101 & Web Application Security**  
-   - Vulnerability types  
-   - CVSS & VPR scoring  
-   - SQL Injection, IDOR, misconfigurations  
-   - Practical exploitation examples  
+### 🧪 Labs Coverd 
+- [Vulnerabilities 101 & Web Application Security](vulnerabilities-and-web-security.md)
+- [Metasploit Framework Lab](metasploit-framework-lab.md)
 
-2. **Metasploit Framework Lab**  
-   - Exploit & payload concepts  
-   - Metasploit workflow  
-   - Post-exploitation basics  
-
-*(More labs will be added as I continue learning)*
+### 📄 Detailed PDF Reports
+- [Cybersecurity Lab Reports Index](lab-reports.md)  
+  *(Contains detailed PDF reports stored in the `reports/` directory)*
 
 ---
+
 
 ## 🧪 Lab Platform
 - **TryHackMe**
@@ -48,7 +44,8 @@ All labs are performed in **legal, controlled environments** such as TryHackMe.
 
 ## ⚠️ Disclaimer
 All content in this repository is for **educational purposes only**.  
-No attacks are performed on unauthorized systems.
+All activities were performed in **authorized lab environments**.  
+No attacks were conducted on unauthorized systems.
 
 ---
 
