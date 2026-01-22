@@ -130,4 +130,4 @@ A vulnerability is a **weakness or flaw** in a system, application, or configura
  (TryHackMe | Vulnerabilities 101 https://share.google/vIUFWBRHarKe9EnoK)
  
 ## 📑 Lab report 
--  vulnerabilities-101.md
+-  vulnerabilities-101.pdf
